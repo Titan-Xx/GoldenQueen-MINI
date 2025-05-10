@@ -1,6 +1,6 @@
 {
   "name": "GoldenQueen",
-  "version": "1.0.0",
+  "version": "6.6.0",
   "description": "A Simple WhatsApp bot created By Dushan",
   "main": "GoldenQueenMini.js",
   "scripts": {
