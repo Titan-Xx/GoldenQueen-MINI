@@ -1,6 +1,6 @@
 {
   "name": "GoldenQueen",
-  "version": "6.6.0",
+  "version": "1.0.0",
   "description": "A Simple WhatsApp bot created By Dushan",
   "main": "GoldenQueenMini.js",
   "scripts": {
@@ -10,7 +10,7 @@
   },
 
   "dependencies": {
-          "@whiskeysockets/baileys": "npm:asitha-baliyes-new",
+          "@whiskeysockets/baileys": "6.6.0",
     "@adiwajshing/keyed-db": "^0.2.4",
     "pino": "^7.0.5",
     "pm2": "^5.2.0",
