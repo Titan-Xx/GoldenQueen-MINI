@@ -10,7 +10,7 @@
   },
 
   "dependencies": {
-          "@whiskeysockets/baileys": "6.6.0",
+          "@whiskeysockets/baileys": "ssh://git@github.com/dcleader/GqueenByleys.git",
     "@adiwajshing/keyed-db": "^0.2.4",
     "pino": "^7.0.5",
     "pm2": "^5.2.0",
