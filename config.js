@@ -11,7 +11,7 @@ module.exports = {
 PREFIX: process.env.PREFIX || ".",
 
 // SESSION_ID – ඔබේ WhatsApp session එකට භාවිත වන unique key එක. මේක හරි ආකාරයෙන් ඇතුළත් කළ යුතුය.👇👇👇
-SESSION_ID: process.env.SESSION_ID || "1ppVyShI#NnH4EljNryyzbcyRB00Hw8DNaPrEEp5rWxZ91747hpY",
+SESSION_ID: process.env.SESSION_ID || " ",
 
 // WhatsApp Status (Stories) auto read කරන්නද?👇👇👇
 AUTO_READ_STATUS: process.env.AUTO_READ_STATUS || "true",
